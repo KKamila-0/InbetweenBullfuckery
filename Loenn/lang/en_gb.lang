@@ -1,0 +1,7 @@
+# Sample Entity
+entities.InbetweenBullfuckery/SampleEntity.placements.name.normal=Sample Entity
+entities.InbetweenBullfuckery/SampleEntity.attributes.description.sampleProperty=A sample property for your entity.
+
+# Sample Trigger
+triggers.InbetweenBullfuckery/SampleTrigger.placements.name.normal=Sample Trigger
+triggers.InbetweenBullfuckery/SampleTrigger.attributes.description.sampleProperty=A sample property for your trigger.
